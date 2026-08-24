@@ -141,6 +141,7 @@
 ### Infrastructure & DevOps
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -294,10 +295,14 @@
 [![Code Review](https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/code-review)
 [![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Debugging)
 [![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-C%20%7C%20Assembly-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Reverse_engineering)
-
-**Chaos Engineering**
-
 [![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
-[![Chaos Mesh](https://img.shields.io/badge/Chaos_Mesh-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
-[![Litmus](https://img.shields.io/badge/Litmus-FF6F00?style=for-the-badge&logo=litmus&logoColor=white)](https://litmuschaos.io/)
-[![Gremlin](https://img.shields.io/badge/Gremlin-000000?style=for-the-badge&logo=gremlin&logoColor=white)](https://www.gremlin.com/)
+
+## Legacy
+
+[Tic-tac-toe_with_optimal_AI_console_version](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_console_version) ― Console version of Tic-Tac-Toe. Second-year project submission.
+[Tic-tac-toe_with_optimal_AI_telegram_bot](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_telegram_bot) ― A Telegram bot featuring a Tic-Tac-Toe game. A second-year project (an additional project).
+[Database-for-managing-projects-and-tasks-in-an-IT-company](github.com/Artyomkun/Database-for-managing-projects-and-tasks-in-an-IT-company./tree/codespace-probable-sniffle-g456gx5q676wcv5pj) ― Passing the second course in BD
+[Ton](github.com/Artyomkun/Ton) ― Completion of the Kodland Python course
+[Test](github.com/Artyomkun/test) ― Homework assignment for the testing course.
+[FileManagerPro](github.com/Artyomkun/FileManagerPro) ― C course completion. Third year.
+[PROGRAMMING-TOOLS-C++](https://github.com/Artyomkun/PROGRAMMING-TOOLS-C-) ― Third-year C++ homework assignments
