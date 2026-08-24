@@ -297,6 +297,16 @@
 [![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-C%20%7C%20Assembly-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Reverse_engineering)
 [![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
 
+## Start Here
+
+- [Almaz OC](sourcecraft.dev/selemetartem-gmail-com/almaz) ― An assembly language and an operating system written in it.
+- [Honeycomb](github.com/Artyomkun/honeycomb) ― I am working on my personal project for the Kodland Unity course.
+- [Discord Bot](sourcecraft.dev/selemetartem-gmail-com/discord-bot) ― A music Discord bot featuring import substitution.
+- [bpla-and-satellite](sourcecraft.dev/selemetartem-gmail-com/bpla-and-satellite) ― Helps locate missing persons via satellite. An MVP is currently in development.
+- [HydraVPN](github.com/Artyomkun/HydraVPN) ― A VPN that uses the Hydra principle. Mobile and laptop versions are currently under development.
+- [Parsing](github.com/Artyomkun/Parsing) ― This project parses pages and files ranging from complex to simple contexts.
+- [Kodland](github.com/Artyomkun/Kodland)  ― The Kodland Python Pro course is finished, but I’m putting the finishing touches on the repository to make it shine. I’m preparing to wrap up the project and submit the bot at the MVP stage.
+
 ## Legacy
 
 - [Tic-tac-toe_with_optimal_AI_console_version](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_console_version) ― Console version of Tic-Tac-Toe. Second-year project submission.
