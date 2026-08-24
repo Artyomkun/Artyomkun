@@ -299,10 +299,10 @@
 
 ## Legacy
 
-[Tic-tac-toe_with_optimal_AI_console_version](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_console_version) ― Console version of Tic-Tac-Toe. Second-year project submission.
-[Tic-tac-toe_with_optimal_AI_telegram_bot](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_telegram_bot) ― A Telegram bot featuring a Tic-Tac-Toe game. A second-year project (an additional project).
-[Database-for-managing-projects-and-tasks-in-an-IT-company](github.com/Artyomkun/Database-for-managing-projects-and-tasks-in-an-IT-company./tree/codespace-probable-sniffle-g456gx5q676wcv5pj) ― Passing the second course in BD
-[Ton](github.com/Artyomkun/Ton) ― Completion of the Kodland Python course
-[Test](github.com/Artyomkun/test) ― Homework assignment for the testing course.
-[FileManagerPro](github.com/Artyomkun/FileManagerPro) ― C course completion. Third year.
-[PROGRAMMING-TOOLS-C++](https://github.com/Artyomkun/PROGRAMMING-TOOLS-C-) ― Third-year C++ homework assignments
+- [Tic-tac-toe_with_optimal_AI_console_version](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_console_version) ― Console version of Tic-Tac-Toe. Second-year project submission.
+- [Tic-tac-toe_with_optimal_AI_telegram_bot](github.com/Artyomkun/Tic-tac-toe_with_optimal_AI_telegram_bot) ― A Telegram bot featuring a Tic-Tac-Toe game. A second-year project (an additional project).
+- [Database-for-managing-projects-and-tasks-in-an-IT-company](github.com/Artyomkun/Database-for-managing-projects-and-tasks-in-an-IT-company./tree/codespace-probable-sniffle-g456gx5q676wcv5pj) ― Passing the second course in BD
+- [Ton](github.com/Artyomkun/Ton) ― Completion of the Kodland Python course
+- [Test](github.com/Artyomkun/test) ― Homework assignment for the testing course.
+- [FileManagerPro](github.com/Artyomkun/FileManagerPro) ― C course completion. Third year.
+- [PROGRAMMING-TOOLS-C++](https://github.com/Artyomkun/PROGRAMMING-TOOLS-C-) ― Third-year C++ homework assignments
