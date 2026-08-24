@@ -152,3 +152,11 @@
 [![SRE](https://img.shields.io/badge/SRE-Practices-00B4D8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://sre.google/)
 [![Incident Management](https://img.shields.io/badge/Incident_Management-0A0A0A?style=for-the-badge&logo=opsgenie&logoColor=white)](https://www.atlassian.com/software/opsgenie)
 [![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
+
+### Legacy — Code Maintenance & Refactoring
+
+[![Legacy Code](https://img.shields.io/badge/Legacy_Code-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Legacy_code)
+[![Refactoring](https://img.shields.io/badge/Refactoring-000000?style=for-the-badge&logo=linux&logoColor=white)](https://refactoring.guru/)
+[![Code Review](https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/code-review)
+[![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Debugging)
+[![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-C%20%7C%20Assembly-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Reverse_engineering)
