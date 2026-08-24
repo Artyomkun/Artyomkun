@@ -276,6 +276,7 @@
 [![JCL](https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Job_Control_Language)
 
 **Practices** 
+
 [![Legacy Code](https://img.shields.io/badge/Legacy_Code-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Legacy_code)
 [![Refactoring](https://img.shields.io/badge/Refactoring-000000?style=for-the-badge&logo=linux&logoColor=white)](https://refactoring.guru/)
 [![Code Review](https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/code-review)
