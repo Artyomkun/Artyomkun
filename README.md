@@ -252,6 +252,11 @@
 [![Java 7](https://img.shields.io/badge/Java-7-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
 [![Java 8](https://img.shields.io/badge/Java-8-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
 
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+
+[![Elixir 1.8](https://img.shields.io/badge/Elixir-1.8-000000?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![Elixir 1.12](https://img.shields.io/badge/Elixir-1.12-000000?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 [![PHP 3](https://img.shields.io/badge/PHP-3.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
