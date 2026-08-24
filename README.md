@@ -207,11 +207,7 @@
 
 [![RPG](https://img.shields.io/badge/RPG-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/RPG_(programming_language))
 
-[![RPG I](https://img.shields.io/badge/RPG-I-1959-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
 [![RPG II](https://img.shields.io/badge/RPG-II-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
-[![RPG III](https://img.shields.io/badge/RPG-III-1978-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
-[![RPG/400](https://img.shields.io/badge/RPG-400-1988-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
-[![RPG IV](https://img.shields.io/badge/RPG-IV-1994-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
 [![ILE RPG](https://img.shields.io/badge/ILE_RPG-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
