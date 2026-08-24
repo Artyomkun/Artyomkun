@@ -153,10 +153,138 @@
 [![Incident Management](https://img.shields.io/badge/Incident_Management-0A0A0A?style=for-the-badge&logo=opsgenie&logoColor=white)](https://www.atlassian.com/software/opsgenie)
 [![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
 
-### Legacy — Code Maintenance & Refactoring
+### Legacy
 
+[![COBOL](https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+
+[![COBOL-68](https://img.shields.io/badge/COBOL-68-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+[![COBOL-74](https://img.shields.io/badge/COBOL-74-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+[![COBOL-85](https://img.shields.io/badge/COBOL-85-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+[![COBOL 2002](https://img.shields.io/badge/COBOL-2002-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+[![COBOL 2014](https://img.shields.io/badge/COBOL-2014-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+
+[![Fortran](https://img.shields.io/badge/Fortran-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Fortran)
+
+[![FORTRAN 66](https://img.shields.io/badge/FORTRAN-66-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#FORTRAN_66)
+[![FORTRAN 77](https://img.shields.io/badge/FORTRAN-77-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#FORTRAN_77)
+[![Fortran 90](https://img.shields.io/badge/Fortran-90-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#Fortran_90)
+[![Fortran 95](https://img.shields.io/badge/Fortran-95-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#Fortran_95)
+[![Fortran 2003](https://img.shields.io/badge/Fortran-2003-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#Fortran_2003)
+[![Fortran 2008](https://img.shields.io/badge/Fortran-2008-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#Fortran_2008)
+[![Fortran 2018](https://img.shields.io/badge/Fortran-2018-000000?style=for-the-badge&logo=fortran&logoColor=white)](https://en.wikipedia.org/wiki/Fortran#Fortran_2018)
+
+[![Pascal](https://img.shields.io/badge/Pascal-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+
+[![Pascal (Wirth)](https://img.shields.io/badge/Pascal-1970-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+[![ISO Pascal](https://img.shields.io/badge/ISO%20Pascal-7185-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://www.iso.org/standard/13453.html)
+[![UCSD Pascal](https://img.shields.io/badge/UCSD_Pascal-1978-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/UCSD_Pascal)
+[![Turbo Pascal 1.0](https://img.shields.io/badge/Turbo_Pascal-1.0-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Turbo_Pascal)
+[![Turbo Pascal 5.5](https://img.shields.io/badge/Turbo_Pascal-5.5-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Turbo_Pascal)
+[![Turbo Pascal 7.0](https://img.shields.io/badge/Turbo_Pascal-7.0-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Turbo_Pascal)
+[![Object Pascal](https://img.shields.io/badge/Object_Pascal-1986-000000?style=for-the-badge&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Object_Pascal)
+[![Delphi](https://img.shields.io/badge/Delphi-1995-000000?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
+
+[![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
+
+[![OCaml 3.12](https://img.shields.io/badge/OCaml-3.12-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
+[![OCaml 4.14](https://img.shields.io/badge/OCaml-4.14-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
+[![OCaml 5.5](https://img.shields.io/badge/OCaml-5.5-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
+
+[![Ada](https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Ada_(programming_language))
+
+[![Ada 83](https://img.shields.io/badge/Ada-83-000000?style=for-the-badge&logo=ada&logoColor=white)](https://www.adaic.org/standards/ada83/)
+[![Ada 95](https://img.shields.io/badge/Ada-95-000000?style=for-the-badge&logo=ada&logoColor=white)](https://www.adaic.org/standards/ada95/)
+[![Ada 2005](https://img.shields.io/badge/Ada-2005-000000?style=for-the-badge&logo=ada&logoColor=white)](https://www.adaic.org/standards/ada2005/)
+[![Ada 2012](https://img.shields.io/badge/Ada-2012-000000?style=for-the-badge&logo=ada&logoColor=white)](https://www.adaic.org/standards/ada2012/)
+[![Ada 2022](https://img.shields.io/badge/Ada-2022-000000?style=for-the-badge&logo=ada&logoColor=white)](https://www.adaic.org/standards/ada2022/)
+
+[![PL/I](https://img.shields.io/badge/PL%2FI-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/PL/I)
+
+[![PL/I (OS/360)](https://img.shields.io/badge/PL%2FI-1966-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/PL/I)
+[![ANSI X3.53-1976](https://img.shields.io/badge/ANSI-X3.53--1976-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://webstore.ansi.org/)
+[![ISO 6160:1979](https://img.shields.io/badge/ISO-6160%3A1979-000000?style=for-the-badge&logo=iso&logoColor=white)](https://webstore.ansi.org/standards/iso/iso61601979)
+[![ANSI X3.168-1992](https://img.shields.io/badge/ANSI-X3.168--1992-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/PL/I)
+
+[![RPG](https://img.shields.io/badge/RPG-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/RPG_(programming_language))
+
+[![RPG I](https://img.shields.io/badge/RPG-I-1959-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+[![RPG II](https://img.shields.io/badge/RPG-II-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+[![RPG III](https://img.shields.io/badge/RPG-III-1978-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+[![RPG/400](https://img.shields.io/badge/RPG-400-1988-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+[![RPG IV](https://img.shields.io/badge/RPG-IV-1994-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+[![ILE RPG](https://img.shields.io/badge/ILE_RPG-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://en.wikipedia.org/wiki/IBM_RPG)
+
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+
+[![Oracle v2](https://img.shields.io/badge/Oracle-v2-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle v6](https://img.shields.io/badge/Oracle-v6-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle7](https://img.shields.io/badge/Oracle-7-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle8i](https://img.shields.io/badge/Oracle-8i-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle9i](https://img.shields.io/badge/Oracle-9i-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle10g](https://img.shields.io/badge/Oracle-10g-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle11g](https://img.shields.io/badge/Oracle-11g-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle12c](https://img.shields.io/badge/Oracle-12c-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle18c](https://img.shields.io/badge/Oracle-18c-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![Oracle19c](https://img.shields.io/badge/Oracle-19c-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.10](https://img.shields.io/badge/Python-3.10-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.8](https://img.shields.io/badge/Python-3.8-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.7](https://img.shields.io/badge/Python-3.7-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.6](https://img.shields.io/badge/Python-3.6-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.4](https://img.shields.io/badge/Python-3.4-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.3](https://img.shields.io/badge/Python-3.3-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.2](https://img.shields.io/badge/Python-3.2-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.1](https://img.shields.io/badge/Python-3.1-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 3.0](https://img.shields.io/badge/Python-3.0-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python 2.7](https://img.shields.io/badge/Python-2.7-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+[![Java 1.0](https://img.shields.io/badge/Java-1.0-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 1.1](https://img.shields.io/badge/Java-1.1-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 1.2](https://img.shields.io/badge/Java-1.2-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 1.3](https://img.shields.io/badge/Java-1.3-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 1.4](https://img.shields.io/badge/Java-1.4-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 5](https://img.shields.io/badge/Java-5-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 6](https://img.shields.io/badge/Java-6-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 7](https://img.shields.io/badge/Java-7-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+[![Java 8](https://img.shields.io/badge/Java-8-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_version_history)
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+[![PHP 3](https://img.shields.io/badge/PHP-3.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 4](https://img.shields.io/badge/PHP-4.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 5](https://img.shields.io/badge/PHP-5.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 5.3](https://img.shields.io/badge/PHP-5.3-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 5.6](https://img.shields.io/badge/PHP-5.6-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 7.0](https://img.shields.io/badge/PHP-7.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 7.4](https://img.shields.io/badge/PHP-7.4-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 8.0](https://img.shields.io/badge/PHP-8.0-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 8.3](https://img.shields.io/badge/PHP-8.3-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP 8.5](https://img.shields.io/badge/PHP-8.5-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+[![Mainframe](https://img.shields.io/badge/Mainframe-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Mainframe_computer)
+[![z/OS](https://img.shields.io/badge/z%2FOS-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Z/OS)
+[![DB2](https://img.shields.io/badge/DB2-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/IBM_DB2)\
+[![IMS](https://img.shields.io/badge/IMS-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/IBM_Information_Management_System)
+[![JCL](https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Job_Control_Language)
+
+**Practices** 
 [![Legacy Code](https://img.shields.io/badge/Legacy_Code-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Legacy_code)
 [![Refactoring](https://img.shields.io/badge/Refactoring-000000?style=for-the-badge&logo=linux&logoColor=white)](https://refactoring.guru/)
 [![Code Review](https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/code-review)
 [![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Debugging)
 [![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-C%20%7C%20Assembly-000000?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Reverse_engineering)
+
+**Chaos Engineering**
+
+[![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
+[![Chaos Mesh](https://img.shields.io/badge/Chaos_Mesh-FF6F00?style=for-the-badge&logo=chaos-mesh&logoColor=white)](https://chaos-mesh.org/)
+[![Litmus](https://img.shields.io/badge/Litmus-FF6F00?style=for-the-badge&logo=litmus&logoColor=white)](https://litmuschaos.io/)
+[![Gremlin](https://img.shields.io/badge/Gremlin-000000?style=for-the-badge&logo=gremlin&logoColor=white)](https://www.gremlin.com/)
