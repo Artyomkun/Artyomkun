@@ -70,6 +70,8 @@
 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet) [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/) [![X11](https://img.shields.io/badge/X11-00599C?style=for-the-badge&logo=csharp&logoColor=white)](https://www.x.org/wiki/) [![X11](https://img.shields.io/badge/X11_Development-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.x.org/) [![Xlib](https://img.shields.io/badge/Xlib-3776AB?style=for-the-badge&logo=linux&logoColor=white)](https://www.x.org/releases/X11R7.7/doc/libX11/libX11.html) [![Avalonia](https://img.shields.io/badge/Avalonia-2B2B2B?style=for-the-badge&logo=avalonia&logoColor=white)](https://avaloniaui.net/) [![Wayland](https://img.shields.io/badge/Wayland-000000?style=for-the-badge&logo=linux&logoColor=white)](https://wayland.freedesktop.org/)
 
+[![Inno Setup](https://img.shields.io/badge/Inno_Setup-000000?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
+
 [![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)](https://fsharp.org/)
 
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
