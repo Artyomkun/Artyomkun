@@ -326,6 +326,7 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artyomkun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/артем-селемет-7157b9431)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artyom_Leader)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/artyomkundv)
 [![MAX](https://img.shields.io/badge/MAX-0077FF?style=for-the-badge&logo=Макс&logoColor=white)](https://max.ru/u/f9LHodD0cOLkT15MOhYWKiEwTGcoyzHUcDtPMQkKIXWfY6Zvm4MCIxlvdl8)
