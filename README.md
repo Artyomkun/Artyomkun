@@ -334,4 +334,4 @@
 
 ## Model Status
 
-**What model is Artem using?** DeepSeek, GLM, Grok, Kimi, Qwen
+**What model is Artem using?** DeepSeek, GLM, ChatGPT, Gemini, Grok, Kimi, Qwen, Dewiar, GigaChat, YandexGPT (Алиса и Alice AI)
