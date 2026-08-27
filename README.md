@@ -321,7 +321,7 @@
 <img width="944" height="243" alt="image" src="https://github.com/user-attachments/assets/7297562c-0de9-47e6-b23e-79349b5ac7ab" />
 
 ## Language Statistics
-![Top Langs](https://gh-stats.com/api/top-langs?username=Artyomkun&layout=pie)
+![Top Langs](https://gh-stats.com/api/top-langs?username=Artyomkun&langs_count=20)
 
 ## Connect
 
