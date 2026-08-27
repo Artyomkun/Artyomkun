@@ -322,3 +322,12 @@
 
 ## Language Statistics
 ![Top Langs](https://gh-stats.com/api/top-langs?username=Artyomkun&layout=pie)
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artyomkun)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artyom_Leader)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/artyomkun)
+[![MAX](https://img.shields.io/badge/MAX-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://max.ru/u/f9LHodD0cOLkT15MOhYWKiEwTGcoyzHUcDtPMQkKIXWfY6Zvm4MCIxlvdl8)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/artyomkun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selemetartem@gmail.com)
