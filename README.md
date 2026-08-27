@@ -316,3 +316,7 @@
 - [Test](github.com/Artyomkun/test) ― Homework assignment for the testing course.
 - [FileManagerPro](github.com/Artyomkun/FileManagerPro) ― C course completion. Third year.
 - [PROGRAMMING-TOOLS-C++](https://github.com/Artyomkun/PROGRAMMING-TOOLS-C-) ― Third-year C++ homework assignments
+
+## GitHub Activity
+<img width="944" height="243" alt="image" src="https://github.com/user-attachments/assets/7297562c-0de9-47e6-b23e-79349b5ac7ab" />
+
