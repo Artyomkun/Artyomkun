@@ -331,3 +331,7 @@
 [![MAX](https://img.shields.io/badge/MAX-0077FF?style=for-the-badge&logo=Макс&logoColor=white)](https://max.ru/u/f9LHodD0cOLkT15MOhYWKiEwTGcoyzHUcDtPMQkKIXWfY6Zvm4MCIxlvdl8)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/artyomkun)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selemetartem@gmail.com)
+
+## Model Status
+
+**What model is Artem using?** DeepSeek, GLM, Grok, Kimi, Qwen
