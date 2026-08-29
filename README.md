@@ -336,3 +336,17 @@
 ## Model Status
 
 **What model is Artem using?** DeepSeek, GLM, ChatGPT, Gemini, Grok, Kimi, Qwen, Dewiar, GigaChat, YandexGPT (Алиса и Alice AI)
+
+<details>
+  <summary>Three random facts</summary>
+  
+  - I like the idea of ​​AI in the realm of know-how.
+  
+  - They can rewrite a million lines of any legacy code in a week.
+  
+  - Doesn't like chaos
+  
+  - He plays Minecraft and watches anime, and in his free time, he is learning to play the guitar.
+  
+  - They might stay silent, but that doesn't mean "no."
+</details>
