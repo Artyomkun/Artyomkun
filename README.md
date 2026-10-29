@@ -253,7 +253,7 @@
 
 - [Almaz OC](sourcecraft.dev/selemetartem-gmail-com/almaz) ― An assembly language and an operating system written in it.
 - [Honeycomb](github.com/Artyomkun/honeycomb) ― I am working on my personal project for the Kodland Unity course.
-- [Discord Bot](sourcecraft.dev/selemetartem-gmail-com/discord-bot) ― A music Discord bot featuring import substitution.
+- [Discord Bot](https://github.com/Artyomkun/discord-bot) ― A music Discord bot featuring import substitution.
 - [bpla-and-satellite](sourcecraft.dev/selemetartem-gmail-com/bpla-and-satellite) ― Helps locate missing persons via satellite. An MVP is currently in development.
 - [HydraVPN](github.com/Artyomkun/HydraVPN) ― A VPN that uses the Hydra principle. Mobile and laptop versions are currently under development.
 - [Parsing](github.com/Artyomkun/Parsing) ― This project parses pages and files ranging from complex to simple contexts.
